@@ -456,4 +456,4 @@ def broadcast_message(message):
 
 
 
-bot.polling()
+bot.infinity_polling(skip_pending=True)
