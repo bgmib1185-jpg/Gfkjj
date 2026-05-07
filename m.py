@@ -18,6 +18,7 @@ USER_FILE = "users.txt"
 # File to store command logs
 LOG_FILE = "log.txt"
 
+FREE_USER_FILE = "free_users.txt"a
 
 # Function to read user IDs from the file
 def read_users():
